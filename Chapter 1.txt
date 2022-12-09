@@ -1,7 +1,6 @@
 First line
 change in newbranch.
-<<<<<<< HEAD
-hey
-=======
-i writing on github website
->>>>>>> 109f25e265f8316d232fb45d802418aa71952a01
+
+
+
+hello again
